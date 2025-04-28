@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **NLP, Generative AI**
 
+- 📝 I'm currently writing a research paper on Topic: Comparing Content-Based and Collaborative Filtering Algorithms for Movie Recommendation System
+
 - 📫 How to reach me **gautam04mishra@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
